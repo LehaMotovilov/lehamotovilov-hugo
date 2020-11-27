@@ -1,5 +1,5 @@
-baseURL = "https://agitated-yonath-9e98e4.netlify.app/"
-title   = "Hello Friend NG"
+baseURL = "https://lehamotovilov.netlify.app/"
+title   = "LehaMotovilov"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -8,10 +8,8 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
-# disqusShortname = ""
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -53,7 +51,7 @@ disableKinds = ["RSS"]
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Software Engineer"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -62,20 +60,6 @@ disableKinds = ["RSS"]
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
   disableReadOtherPosts = true
-
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
-  enableSharingButtons = false
-
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  #
-  customCSS = []
-  customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
@@ -135,7 +119,7 @@ disableKinds = ["RSS"]
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Software Engineer"
     weight    = 1
     copyright = ''
 
