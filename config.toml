@@ -132,7 +132,3 @@ disableKinds = ["RSS"]
     identifier = "contacts"
     name       = "Contacts"
     url        = "contacts/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
