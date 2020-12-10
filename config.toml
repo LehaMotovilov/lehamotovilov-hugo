@@ -1,4 +1,4 @@
-baseURL = "https://lehamotovilov.netlify.app/"
+baseURL = "https://lehamotovilov.com/"
 title   = "LehaMotovilov"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -8,8 +8,6 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-
-# googleAnalytics = ""
 
 archetypeDir = "archetypes"
 contentDir   = "content"
