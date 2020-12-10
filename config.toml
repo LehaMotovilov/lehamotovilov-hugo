@@ -47,7 +47,7 @@ disableKinds = ["RSS"]
 
   # Metadata mostly used in document's head
   #
-  description = "Nice theme for homepages and blogs"
+  description = "Software Engineer"
   keywords = ""
   images = [""]
 
