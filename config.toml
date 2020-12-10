@@ -123,12 +123,12 @@ disableKinds = ["RSS"]
     weight    = 1
     copyright = ''
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "contacts"
-    name       = "Contacts"
-    url        = "contacts/"
+# [menu]
+#   [[menu.main]]
+#     identifier = "about"
+#     name       = "About"
+#     url        = "about/"
+#   [[menu.main]]
+#     identifier = "contacts"
+#     name       = "Contacts"
+#     url        = "contacts/"
