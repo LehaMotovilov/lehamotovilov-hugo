@@ -9,7 +9,6 @@ PygmentsStyle = "monokai"
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 
-archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
@@ -21,15 +20,15 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = true
 
-disableKinds = ["RSS"]
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
