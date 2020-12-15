@@ -18,6 +18,9 @@
 </title>
 {{ end }}
 
+<link rel="preload" href="/fonts/Inter-UI-Bold.woff2" as="font" type="font/woff2">
+<link rel="preload" href="/fonts/Inter-UI-Regular.woff2" as="font" type="font/woff2">
+
 <!-- CSS -->
 {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
