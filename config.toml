@@ -44,11 +44,11 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
   # Metadata mostly used in document's head
   #
-  description = "Software Engineer"
+  description = "Engineering Manager"
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Software Engineer"
+  homeSubtitle = "Engineering Manager"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -116,16 +116,6 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [languages]
   [languages.en]
-    subtitle  = "Software Engineer"
+    subtitle  = "Engineering Manager"
     weight    = 1
     copyright = ''
-
-# [menu]
-#   [[menu.main]]
-#     identifier = "about"
-#     name       = "About"
-#     url        = "about/"
-#   [[menu.main]]
-#     identifier = "contacts"
-#     name       = "Contacts"
-#     url        = "contacts/"
