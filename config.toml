@@ -108,7 +108,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/aleksey-motovilov/"
+    url  = "https://www.linkedin.com/in/oleksii-motovilov/"
 
   [[params.social]]
     name = "facebook"
